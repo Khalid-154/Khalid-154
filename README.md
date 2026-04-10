@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Khalid-154&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Khalid-154)
 [![GitHub followers](https://img.shields.io/github/followers/Khalid-154?style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/Khalid-154)
-[![CV](https://img.shields.io/badge/📄_My_CV-Download-00d4ff?style=for-the-badge)](https://github.com/Khalid-154/Khalid-154/raw/main/CV/Khalid_CV.pdf)
+[![CV](https://img.shields.io/badge/📄_My_CV-Download-00d4ff?style=for-the-badge)](https://github.com/Khalid-154/Khalid-154/raw/main/CV/Khalid_Hosni_CV.pdf)
 
 </div>
 

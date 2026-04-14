@@ -33,7 +33,6 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,docker,sqlserver,redis,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Khalid-154&theme=highcontrast" height="105"/>
 </p>
 
 ---
@@ -45,5 +44,3 @@
 
 ---
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
